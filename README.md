@@ -67,6 +67,9 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 ### Dashboard
 <img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/images/dashboard tago.png" alt="dashboard" width="500" />
 
+### HiveMQ
+<img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/images/hivemq.png" alt="hivemq" width="500" />
+
 ## :gear: Como Utilizar
 1. Instalar o [Node-RED](https://nodered.org/);
 2. Baixar o [código](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/code.ino) da solução e instalar as bibliotecas ArduinoJson e DHT sensor library;
