@@ -74,6 +74,7 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 4. Conectar o Arduino no computador e fazer upload do código para o Arduino;
 5. Iniciar o [Node-RED](https://nodered.org/) no computador;
 6. Importar o [fluxo](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/flows.json) no [Node-RED](https://nodered.org/) no computador e fazer o deploy.
+7. Dashboard será exibido no [TagoIO](https://tago.io/)
 
 ## :technologist: Integrantes
 * RM 552980 - Danilo Vieira
