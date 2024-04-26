@@ -61,11 +61,11 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 </table>
 
 ### Fluxo
-<img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/images/flow.png" alt="flow" width="500" />
+<img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/images/flow node-red.png" alt="flow" width="500" />
 <h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/flows.json">aqui</a>.</h6>
 
 ### Dashboard
-<img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/images/dashboard.png" alt="dashboard" width="500" />
+<img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/images/dashboard tago.png" alt="dashboard" width="500" />
 
 ## :gear: Como Utilizar
 1. Instalar o [Node-RED](https://nodered.org/);
