@@ -1,4 +1,4 @@
-<h1 align="center">Ano 1 - Semestre 2 - Checkpoint 1 - 1ESPR</h1>
+<h1 align="center">Semestre 2 - Checkpoint 1</h1>
 
 <hr/>
 
@@ -19,12 +19,12 @@
 <hr/>
 
 ## :pushpin: Introdução
-Este checkpoint teve como objetivo avaliar a compreensão acerca da interação com o [Node-RED](https://nodered.org/) e a [TagoIO](https://tago.io/).
+Este checkpoint teve como objetivo avaliar a compreensão acerca da interação com o Node-RED e a TagoIO.
 
 ## :bulb: Desafio
-Construção de uma solução de IoT que abrange todas os conceitos de comunicação entre sensores e o [Node-RED](https://nodered.org/) e a [TagoIO](https://tago.io/).
+Construção de uma solução de IoT que abrange todas os conceitos de comunicação entre sensores e o Node-RED e a TagoIO.
 A solução deve conter a leitura de dois sensores a cada 4000ms, disponibilizando as leituras na porta serial, no formato JSON {"":, ""}, os nomes dos sensores, e os valores lidos, respectivamente.
-Além disso, deve haver Dashboards no [TagoIO](https://tago.io/), cuja interface gráfica demonstre o funcionamento de todas os sensores.
+Além disso, deve haver Dashboards no TagoIO, cuja interface gráfica demonstre o funcionamento de todas os sensores.
 
 ## :hammer_and_wrench: Tecnologias e Ferramentas
 Este projeto utilizou as seguintes tecnologias e ferramentas:
@@ -71,13 +71,13 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 <img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/images/hivemq.png" alt="hivemq" width="500" />
 
 ## :gear: Como Utilizar
-1. Instalar o [Node-RED](https://nodered.org/);
+1. Instalar o Node-RED;
 2. Baixar o [código](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/code.ino) da solução e instalar as bibliotecas ArduinoJson e DHT sensor library;
 3. Montar o circuito;
 4. Conectar o Arduino no computador e fazer upload do código para o Arduino;
-5. Iniciar o [Node-RED](https://nodered.org/) no computador;
-6. Importar o [fluxo](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/flows.json) no [Node-RED](https://nodered.org/) no computador e fazer o deploy.
-7. Dashboard será exibido no [TagoIO](https://tago.io/)
+5. Iniciar o Node-RED no computador;
+6. Importar o [fluxo](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint2/blob/main/flows.json) no Node-RED no computador e fazer o deploy.
+7. Dashboard será exibido no TagoIO
 
 ## :technologist: Integrantes
 * RM 552980 - Danilo Vieira
