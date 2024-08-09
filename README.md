@@ -1,4 +1,4 @@
-<h1 align="center">Semestre 2 - Checkpoint 1</h1>
+<h1 align="center">Semestre 2 - Checkpoint 2</h1>
 
 <hr/>
 
